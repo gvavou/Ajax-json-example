@@ -1,0 +1,26 @@
+	
+	.center {
+		margin: 0 auto;
+	}
+		
+	#container {
+		width: 300px;
+		padding: 10px;	
+		text-align:center;
+		border: 1px solid #000000;
+	}
+		
+	#container #response-container {
+		width: 300px;
+		margin: 10px 0px 0px 0px;
+		padding: 5px 0px 5px 0px;
+		text-align: center;
+		background-color: #b0e0e6;
+	}
+		
+	#container input {
+		cursor: pointer;
+		padding: 2px 8px 2px 8px;
+		color: #000000;
+		border: 2px solid #000000;
+	}
